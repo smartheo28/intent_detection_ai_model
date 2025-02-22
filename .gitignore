@@ -1,0 +1,5 @@
+.idea
+.mvn
+target
+src/main/resources/intent_detection_model/distilbert_intent_model.pt
+.DS_Store
